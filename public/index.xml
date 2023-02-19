@@ -2,21 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://liuzhizhou.github.io/zhizhou-blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 20:27:41 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tianye</title>
-      <link>http://example.org/stocks/tianye/</link>
-      <pubDate>Sun, 19 Feb 2023 20:27:41 +0800</pubDate>
-      
-      <guid>http://example.org/stocks/tianye/</guid>
-      
-        <description></description>
-      
-    </item>
-    
+    <language>en-us</language><atom:link href="https://liuzhizhou.github.io/zhizhou-blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-02-19T20:27:41+08:00</lastmod>
+    <loc>https://liuzhizhou.github.io/zhizhou-blog/categories/</loc>
   </url><url>
-    <loc>http://example.org/stocks/</loc>
-    <lastmod>2023-02-19T20:27:41+08:00</lastmod>
+    <loc>https://liuzhizhou.github.io/zhizhou-blog/</loc>
   </url><url>
-    <loc>http://example.org/stocks/tianye/</loc>
-    <lastmod>2023-02-19T20:27:41+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://liuzhizhou.github.io/zhizhou-blog/tags/</loc>
   </url>
 </urlset>
