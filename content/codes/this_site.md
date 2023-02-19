@@ -22,6 +22,8 @@ draft: false
 ```
 
 2. GitHub在Terminal中登入时，输入的是生成的Token，如果他提示密码已经过期了的话。在[这个CSDN的文章](https://blog.csdn.net/FatalFlower/article/details/119717823)里写的很清楚。
+   
+3. 如果把仓库名字设置成自己的id加.github.io的话，那么Personal Page的域名将会变成 your_id.github.io , 譬如我的话就是 liuzhizhou.github.io 这样更像一个个人主页一些，而不是项目主页。
 
 还有更新仓库的代码，用的也很频繁，记录在此:
 ```
