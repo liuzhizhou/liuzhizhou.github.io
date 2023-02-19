@@ -1,7 +1,7 @@
-title = "I'm Zhizhou"
-author = "Zhizhou LIU"
+title = "Zhizhou Liu"
+author = "Zhizhou"
 #copyright = "2020-2021"
-description = "Hello!"
+description = "Welcome to My Personal Site!"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -55,15 +55,15 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
+# [[socialIcons]]
+# icon = "fab fa-linkedin"
+# title = "Linkedin"
+# url = "https://de.linkedin.com/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/liuzhizhou"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
@@ -73,7 +73,7 @@ url = "https://www.instagram.com/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:liuzhizhou95@gmail.com"
 
 [mermaid]
 # enable = true
