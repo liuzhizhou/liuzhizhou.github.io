@@ -5,7 +5,9 @@ draft: false
 thumbnail: "images/hainan/DSCF2025.JPG"
 ---
 
-So beautiful!
+It would take about 20 secs to load all these high-quality photoes.
+
+Beautiful!
 
 ![even1](/images/hainan/DSCF1422.JPG)
 
