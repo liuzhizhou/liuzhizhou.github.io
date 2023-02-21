@@ -2,6 +2,7 @@
 title: "最爱海南！"
 date: 2023-02-21T19:06:58+08:00
 draft: false
+thumbnail: "images/hainan/DSCF2025.JPG"
 ---
 
 So beautiful!
