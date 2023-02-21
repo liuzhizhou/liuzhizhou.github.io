@@ -1,7 +1,7 @@
 title = "Zhizhou Liu"
 author = "Zhizhou"
 #copyright = "2020-2021"
-description = "Welcome to My Personal Site!"
+description = "数学·代码·摄影·股票 \n Forgive me if you don't understand Chinese"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -66,9 +66,9 @@ title = "GitHub"
 url = "https://github.com/liuzhizhou"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fa-solid fa-snowflake"
+title = "xueqiu"
+url = "https://xueqiu.com/u/4342886534"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
