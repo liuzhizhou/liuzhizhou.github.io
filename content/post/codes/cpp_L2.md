@@ -37,7 +37,7 @@ Remmber to initialize a variable althought it would not cause an error. C++ woul
 
 Normally, int is 32-bit but it is not always the case. We can use long int, short int or long long for different lower or higher bit. There number of bits are also not fixed. Commonly, short is 16 bit, long is 32 bit, long long is 64 bit.
 
-![shortlongbit](/static/images/cpp_L2/shortlongbit.png)
+![shortlongbit](/images/cpp_L2/shortlongbit.png)
 
 We can use `sizeof()` to see the number of bit. Note that this is not a function but a operator since a function can not input `int` like `sizeof(int);sizeof(long int)`.
 
@@ -96,8 +96,8 @@ Constant numbers.
 
 The figure below illustrates how float (32-bit) works.
 
-![float1](/static/images/cpp_L2/float1.png)
-![float1](/static/images/cpp_L2/float2.png)
+![float1](/images/cpp_L2/float1.png)
+![float1](/images/cpp_L2/float2.png)
 
 As a consequence, if a float number can be written as $\pm 2^n\times (1+2^{-m})$ for $0\leq n\leq 7$ and $0\leq m\leq 22$. Then it is precise.
 
