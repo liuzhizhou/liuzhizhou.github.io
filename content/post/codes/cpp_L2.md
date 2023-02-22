@@ -1,7 +1,7 @@
 ---
 title: "C/C++ Lecture Notes 2"
 date: 2023-02-22T17:51:39+08:00
-draft: true
+draft: false
 series: 
     - series-cpplecture
 
