@@ -1,5 +1,5 @@
 ---
-title: "C/C++ Lecture Notes 2"
+title: "C/C++ Lecture Notes 3"
 date: 2023-03-01T21:53:22+08:00
 Description: ""
 Tags: ['if else','for/while loop','goto & switch','Linux commands']
