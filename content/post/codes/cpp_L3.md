@@ -41,7 +41,7 @@ factor = (isPositive) * 2 - 1;
 
 This is faster than the above two.
 
-The condition should be an expression (we would explain the meaning of expression later) which can be converted to bool. For example, an integer or float is true when it is not zero. <font color=#FF0000> Pointers are also frequently used condition.</font> (This would be explained in the future)
+The condition should be an expression (we would explain the meaning of expression later) which can be converted to bool. For example, an integer or float is true when it is not zero. </font color=#FF0000> Pointers are also frequently used condition.</font> (This would be explained in the future)
 
 ## `for/ while` Loop
 
