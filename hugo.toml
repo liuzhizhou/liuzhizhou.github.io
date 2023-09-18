@@ -32,7 +32,8 @@ toc = true
 description = "A student who is trying to understand something."
 images = ['images/logo.jpg']
 footnote = """
-Follow me on <a class=link href=https://github.com/liuzhizhou target=_blank rel=noopener>GitHub</a>
+Follow me on <a class=link href=https://github.com/liuzhizhou target=_blank rel=noopener>GitHub</a> and 
+<a class=link href=https://xueqiu.com/u/4342886534 target=_blank rel=noopener>Xueqiu(雪球)</a>
 """
 
 [params.commentEngine]
@@ -57,7 +58,6 @@ code = """
 
 [params.buymeacoffee]
 code = """
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="weastur" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 """
 
 [params.sharingbuttons]
