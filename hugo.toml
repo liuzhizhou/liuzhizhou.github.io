@@ -28,6 +28,11 @@ name = "Liu Zhizhou"
 [params]
 numberedSubtitles = true
 toc = true
+description = "A Student Trying to Understand Something."
+images = ['images/logo.jpg']
+footnote = """
+Follow me on <a class=link href=https://github.com/liuzhizhou target=_blank rel=noopener>GitHub</a>
+"""
 
 [params.commentEngine]
 code = """
