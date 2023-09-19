@@ -33,7 +33,9 @@ description = "A student who is trying to understand something."
 images = ['images/logo.jpg']
 footnote = """
 Follow me on <a class=link href=https://github.com/liuzhizhou target=_blank rel=noopener>GitHub</a> and 
-<a class=link href=https://xueqiu.com/u/4342886534 target=_blank rel=noopener>Xueqiu(雪球)</a>
+<a class=link href=https://xueqiu.com/u/4342886534 target=_blank rel=noopener>Xueqiu(雪球)</a>.
+<br>
+Contact me via <a class=link href = "mailto: liuzhizhou95@gmail.com">Email</a>.
 """
 
 [params.commentEngine]
