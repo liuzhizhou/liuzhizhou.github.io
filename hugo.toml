@@ -41,8 +41,8 @@ Contact me via <a class=link href = "mailto: liuzhizhou95@gmail.com">Email</a>.
 [params.commentEngine]
 code = """
 <script src="https://giscus.app/client.js"
-        data-repo="weastur/hugo-texify2"
-        data-repo-id="R_kgDOJwiYnA"
+        data-repo="liuzhizhou/liuzhizhou.github.io"
+        data-repo-id="693021950"
         data-category="Comments"
         data-category-id="DIC_kwDOJwiYnM4CXVgQ"
         data-mapping="title"
