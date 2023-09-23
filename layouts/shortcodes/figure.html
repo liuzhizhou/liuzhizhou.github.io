@@ -7,6 +7,8 @@
 {{ $permalink := $.Page.Permalink }}
 {{ $image := .Get "src" }}
 {{ $image_link_absolute := (findRE "^/" $image) }}
+{{ $img := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $resize := $img.Resize "800x" }}
 <figure
   {{ with .Get "class" }}class="{{.}}"{{ end }}
   {{ with .Get "width" }}style="width: {{ . }};"{{ end }}
@@ -26,7 +28,9 @@
     {{ with .Get "target" }} target="{{ . }}"{{ end }}
     {{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
   <img
-      {{ if $image_link_absolute }}
+      {{ if $resize}}
+        src="{{ $resize.RelPermalink }}"
+      {{ else if $image_link_absolute }}
         src="{{ $image | absURL }}"
       {{ else }}
         src="{{ (printf "%s%s" $permalink $image) }}"
