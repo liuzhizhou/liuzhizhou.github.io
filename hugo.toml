@@ -37,6 +37,8 @@ Follow me on <a class=link href=https://github.com/liuzhizhou target=_blank rel=
 <br>
 Contact me via <a class=link href = "mailto: liuzhizhou95@gmail.com">Email</a>.
 """
+customCSS = ["css/lightbox.css", "css/figure.css"]
+customJS = ["js/lightbox.js"]
 
 [params.commentEngine]
 code = """
