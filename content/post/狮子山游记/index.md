@@ -2,7 +2,7 @@
 title = '狮子山游记'
 date = 2023-08-10
 draft = false
-toc = false
+toc = true
 tags = ['travel-notes']
 +++
 
@@ -33,11 +33,11 @@ tags = ['travel-notes']
 在绝美的城景中穿越（真正意义上，因为两边均是城景，此景怕是只有香港才能见得。这才应是香港的主打特色），留下了不少自认为还不错的相片。本来准备配一凡尔赛文案：美景就在身边，只是缺少欣赏美的眼睛，并发表在朋友圈中。后来想想还是算了！毕竟博客初建立，首发于此才可使其（更）有意义。
 
 <div class="multi-figures">
-{{<figure src="DSCF9763.jpeg" alt="整个沙田一览无余，甚至在其中可以找到怡雯的学校——香港中文大学之所在。" lightbox="mnist-samples" width="30%">}}
-{{<figure src="DSCF9744.jpeg" alt="这张或许更有美学价值，而前一张则更适合作为初来乍到的旅居者了解沙田的3D导览图。" lightbox="mnist-samples" width="30%">}}
-{{<figure src="DSCF9757.jpeg" alt="此照片包括了一对情侣及西九龙一带，甚至更远处（海对岸）可见我即将进入的学校——香港大学。" lightbox="mnist-samples" width="30%">}}
-{{<figure src="DSCF9784.jpeg" alt="九龙城区，一如既往得富有层次感。" lightbox="mnist-samples" width="30%">}}
-{{<figure src="DSCF9785.jpeg" alt="土坡和白色积木。" lightbox="mnist-samples" width="30%">}}
+{{<figure src="DSCF9763.jpeg" alt="整个沙田一览无余，甚至在其中可以找到怡雯的学校——香港中文大学之所在。" lightbox="mnist-samples">}}
+{{<figure src="DSCF9744.jpeg" alt="这张或许更有美学价值，而前一张则更适合作为初来乍到的旅居者了解沙田的3D导览图。" lightbox="mnist-samples">}}
+{{<figure src="DSCF9757.jpeg" alt="此照片包括了一对情侣及西九龙一带，甚至更远处（海对岸）可见我即将进入的学校——香港大学。" lightbox="mnist-samples">}}
+{{<figure src="DSCF9784.jpeg" alt="九龙城区，一如既往得富有层次感。" lightbox="mnist-samples">}}
+{{<figure src="DSCF9785.jpeg" alt="土坡和白色积木。" lightbox="mnist-samples">}}
 </div>
 
 
@@ -59,7 +59,7 @@ tags = ['travel-notes']
 下面的截图取自Google Map，路线的解释在图片的标题中。
 
 <div class="multi-figures">
-{{<figure src="path1.png" alt="以大围地铁站为起点，步行到红梅谷。由于要穿一个马路，直接使用Google Map导航会绕一个特别大的圈。如果读者愿参考此路线，切记在穿马路时先向右看，再向左看。" lightbox="mnist-samples" width="30%">}}
-{{<figure src="path2.png" alt="爬山路线。其实在某个路口朝走沙田坳坉(Sha Tin Pass Estate)下会近一些，但我走错了路，走向了沙田坳 (Sha Tin Pass)。" lightbox="mnist-samples" width="30%">}}
-{{<figure src="path3.png" alt="先后乘坐19/19M Bus，屯马线抵达始发地，大围地铁站。" lightbox="mnist-samples" width="30%">}}
+{{<figure src="path1.png" alt="以大围地铁站为起点，步行到红梅谷。由于要穿一个马路，直接使用Google Map导航会绕一个特别大的圈。如果读者愿参考此路线，切记在穿马路时先向右看，再向左看。" lightbox="mnist-samples">}}
+{{<figure src="path2.png" alt="爬山路线。其实在某个路口朝走沙田坳坉(Sha Tin Pass Estate)下会近一些，但我走错了路，走向了沙田坳 (Sha Tin Pass)。" lightbox="mnist-samples">}}
+{{<figure src="path3.png" alt="先后乘坐19/19M Bus，屯马线抵达始发地，大围地铁站。" lightbox="mnist-samples" >}}
 </div>

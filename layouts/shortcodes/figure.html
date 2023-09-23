@@ -1,3 +1,5 @@
+{{ .Page.Scratch.Add "fig" 1 }}
+
 {{ if .Get "caption" }}
   {{ $.Scratch.Set "caption" (.Get "caption") }}
 {{ else if .Get "alt" }}
@@ -53,5 +55,4 @@
     </figcaption>
   {{ end }}
 </figure>
-{{ .Page.Scratch.Add "fig" 1 }}
 {{ $.Scratch.Delete "caption"}}
