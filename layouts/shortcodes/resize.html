@@ -1,0 +1,8 @@
+{{ $img := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $resize := $img.Resize "800x" }}
+<figure style="margin: auto;">
+  <img style="margin: auto; max-width: 80%; width: auto; height: auto;" src="{{ $resize.RelPermalink }}">
+  <figcaption>
+        {{ printf "%s" (.Get "alt") }}
+  </figcaption>
+</figure>

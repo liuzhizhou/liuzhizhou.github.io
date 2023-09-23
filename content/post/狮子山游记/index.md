@@ -12,10 +12,10 @@ tags = ['travel-notes']
 
 大约花了20分钟，从住所走到了郊野公园的入口，红梅谷烧烤场。烧烤场空无一人，弥漫着绿色的痕迹——*苔痕上阶绿*。除去猿啼与鸟叫，幽静极了。这个说法让人不觉想起*万籁此都寂，但余钟磬音*和*蝉噪林逾静，鸟鸣山更幽*。不容易想起了古诗，却无法将本文交给老师们批阅，实属可惜。
 
-{{<img src="R0000018.jpeg" width="300" alt="A bird" caption="A bird">}}
+{{<resize src="R0000018.jpeg" alt="Sucess!">}}
 
 <figure>
-    <img src="/pics/R0000018.jpeg" alt="monkey">
+    <img src="R0000018.jpeg" alt="monkey">
     <figcaption>所谓猿啼是真的有猴子在叫哦。</figcaption>
 </figure>
 
