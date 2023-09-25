@@ -10,3 +10,9 @@ Liu Zhizhou is a student who is trying to understand something [^1]. He is gradu
 [^1]: Here something might be mathematics, statistics, the art of investiment or other things he interest on.
 [^2]: Southern University of Science and Technology.
 [^3]: The University of Hong Kong.
+
+Some studying outcomes:
+
+- Thesis. 毕业论文. In English: [Analysis on Ergodicity of Monotone SODEs (单调型随机常微分方程的遍历性分析).](pdfs/2023Undergraudate-Thesis-Liuzhizhou.pdf)
+- Notes. 笔记. In English with some Chinese: [SDE及其数值解的遍历性 (Ergodicity of SDEs and Numerical Schemes).](pdfs/20230831-刘之洲-SDE及其数值解的遍历性-Notes.pdf)
+- Notes. 讲稿. In English with some Chinese: [Uniform in Time (UiT) Convergence 相关结果 (Related Results).](pdfs/20230915-刘之洲-UiT相关结果.pdf)
