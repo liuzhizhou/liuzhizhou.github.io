@@ -7,4 +7,6 @@ applications of the 0-1 law."
 draft:  false
 ---
 
+Redirecting...
+
 <meta http-equiv="refresh" content="0; url='/pdfs/Borel-Cantelli-Lemma-and-its-application.pdf' />

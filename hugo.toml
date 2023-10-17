@@ -9,6 +9,8 @@ paginate = 5
 rssLimit = 10
 theme = "hugo-texify2"
 title = "Blog | Liu Zhizhou"
+showWordCount = true
+showReadingTime = true
 
 [markup]
 defaultMarkdownHandler = "goldmark"
