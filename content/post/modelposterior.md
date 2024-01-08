@@ -8,6 +8,6 @@ tags = ['statistics', 'Bayesian statistics']
 
 Redirecting...
 
-<meta http-equiv="refresh" content="0; url='/pdfs/reportv2.pdf'>
+<meta http-equiv="refresh" content="0; url='/pdfs/reportv2.pdf' />
 
 
